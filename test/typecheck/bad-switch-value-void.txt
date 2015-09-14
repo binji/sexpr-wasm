@@ -1,9 +1,0 @@
-# ERROR: 1
-(module
-  (global i32)
-  (func
-    (store_global 0
-      (i32.switch (i32.const 0)
-        (case 0 (nop))))))
-# STDERR:
-4:6: type mismatch. got void, expected i32

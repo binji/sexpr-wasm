@@ -1,4 +1,0 @@
-# ERROR: 1
-(module (func (local $n)))
-# STDERR:
-1:24: expected type

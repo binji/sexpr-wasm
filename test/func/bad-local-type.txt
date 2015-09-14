@@ -1,4 +1,0 @@
-# ERROR: 1
-(module (func (local foo)))
-# STDERR:
-1:22: expected name to begin with $

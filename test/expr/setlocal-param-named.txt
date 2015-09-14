@@ -1,1 +1,0 @@
-(module (func (param $n i32) (set_local $n (i32.const 0))))

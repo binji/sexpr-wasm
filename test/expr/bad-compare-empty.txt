@@ -1,4 +1,0 @@
-# ERROR: 1
-(module (func (i32.eq)))
-# STDERR:
-1:22: expected '(', not ")"

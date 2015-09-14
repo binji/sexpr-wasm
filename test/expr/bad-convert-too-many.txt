@@ -1,4 +1,0 @@
-# ERROR: 1
-(module (func (i32.trunc_s/f32 (f32.const 0) (nop))))
-# STDERR:
-1:46: expected ')', not "("

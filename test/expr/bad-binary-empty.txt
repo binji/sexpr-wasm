@@ -1,4 +1,0 @@
-# ERROR: 1
-(module (func (i32.add)))
-# STDERR:
-1:23: expected '(', not ")"

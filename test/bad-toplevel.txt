@@ -1,4 +1,0 @@
-# ERROR: 1
-(foo bar)
-# STDERR:
-1:2: unexpected token "foo"

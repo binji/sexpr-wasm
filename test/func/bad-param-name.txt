@@ -1,4 +1,0 @@
-# ERROR: 1
-(module (func (param 0 i32)))
-# STDERR:
-1:22: expected name to begin with $

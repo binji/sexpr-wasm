@@ -1,4 +1,0 @@
-# ERROR: 1
-(module (memory 100 -5))
-# STDERR:
-1:21: invalid max memory size

@@ -1,4 +1,0 @@
-# ERROR: 1
-(module (func (local $foo $bar)))
-# STDERR:
-1:27: expected type

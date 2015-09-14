@@ -1,2 +1,0 @@
-(module (func (param i32)
-  (call 0 (i32.const 1))))

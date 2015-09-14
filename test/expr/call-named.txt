@@ -1,3 +1,0 @@
-(module
-  (func $foo (param f32)
-    (call $foo (f32.const 0.0))))

@@ -1,6 +1,0 @@
-(module
-  (func
-    (label
-      (if
-        (i32.const 0)
-        (break)))))

@@ -1,4 +1,0 @@
-# ERROR: 1
-(module (func (f32.neg)))
-# STDERR:
-1:23: expected '(', not ")"

@@ -1,4 +1,0 @@
-# ERROR: 1
-(module (export "foo" foo))
-# STDERR:
-1:23: invalid var index

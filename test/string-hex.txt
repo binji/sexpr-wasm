@@ -1,1 +1,0 @@
-(module (func) (export "foo\ba\dc\0d\ee" 0))

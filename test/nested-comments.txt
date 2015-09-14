@@ -1,6 +1,0 @@
-(module
-  (; foo bar
-    (; baz
-    ;)
-  ;)
-)
