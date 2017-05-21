@@ -1,1 +1,1 @@
-Moved to https://github.com/WebAssembly/sexpr-wasm-prototype.
+Moved to https://github.com/webassembly/wabt
